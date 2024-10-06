@@ -2,9 +2,9 @@ name: Java CI with Gradle
 
 on:
   push:
-    branches: [ "junit4" ]
+    branches: [ "TestNG" ]
   pull_request:
-    branches: [ "junit4" ]
+    branches: [ "TestNG" ]
 
 jobs:
   build:
